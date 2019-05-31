@@ -3,7 +3,7 @@
  *   Description: Main page for the notes app
  */
 
-/ for colored text in terminal
+//  for colored text in terminal
 const chalk = require('chalk')
 // terminal argument parsing
 const yargs = require('yargs')
